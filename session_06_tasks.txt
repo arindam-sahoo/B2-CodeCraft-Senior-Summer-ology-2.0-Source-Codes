@@ -1,0 +1,23 @@
+Exercise 1: Basic List Operations
+    Create a list of numbers with the elements [1, 2, 3, 4, 5].
+    Append the number 6 to the list.
+    Could you insert the number 0 at the beginning of the list?
+    Remove the number 3 from the list.
+    Sort the list in descending order.
+    Print the list and its length.
+
+Exercise 2: Basic Tuple Operations
+    Create a tuple fruits with the elements ('apple', 'banana', 'cherry').
+    Print the first and last elements of the tuple.
+    Create a new tuple more_fruits by adding ('orange', 'grape') to fruits.
+    Check if 'banana' is in the tuple fruits.
+
+Exercise 3: Converting Between Lists and Tuples
+    Convert the list numbers from Exercise 1 to a tuple.
+    Convert the tuple fruits from Exercise 2 to a list.
+    Add 'mango' to the list of fruits.
+
+Exercise 4: Tuple Unpacking
+    Create a tuple person with the elements ('Alice', 30, 'Engineer').
+    Unpack the tuple into variables name, age, and profession.
+    Print the unpacked variables.
